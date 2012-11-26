@@ -21,6 +21,6 @@ namespace NuGetGallery
         public const string Sha512HashAlgorithmId = "SHA512";
         public const string PBKDF2HashAlgorithmId = "PBKDF2";
         public const string UploadFileNameTemplate = "{0}{1}";
-        public const string UploadsFolderName = "uploads";
+        public const string UploadsFolderName = "uploads";    
     }
 }
